@@ -1,0 +1,13 @@
+{
+  "name": "docker-appdynamics-alpine",
+  "version": "1.0.0",
+  "description": "Node.js app & Appdynamics on Docker",
+  "author": "Miroslaw Sztorc <miroslaw.sztorc@appdynamics.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
